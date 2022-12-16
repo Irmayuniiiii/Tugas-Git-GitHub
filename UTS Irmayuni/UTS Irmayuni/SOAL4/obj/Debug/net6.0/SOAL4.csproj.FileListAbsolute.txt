@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\SOAL4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\SOAL4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\SOAL4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\SOAL4.AssemblyInfo.cs
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\SOAL4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SOAL4\bin\Debug\net6.0\SOAL4.exe
+C:\Users\User\Desktop\SOAL4\bin\Debug\net6.0\SOAL4.deps.json
+C:\Users\User\Desktop\SOAL4\bin\Debug\net6.0\SOAL4.runtimeconfig.json
+C:\Users\User\Desktop\SOAL4\bin\Debug\net6.0\SOAL4.dll
+C:\Users\User\Desktop\SOAL4\bin\Debug\net6.0\SOAL4.pdb
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\SOAL4.dll
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\refint\SOAL4.dll
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\SOAL4.pdb
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\SOAL4.genruntimeconfig.cache
+C:\Users\User\Desktop\SOAL4\obj\Debug\net6.0\ref\SOAL4.dll

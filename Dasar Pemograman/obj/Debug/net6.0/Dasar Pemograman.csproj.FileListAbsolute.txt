@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.AssemblyInfo.cs
+C:\Users\HP\Desktop\Dasar Pemograman\obj\Debug\net6.0\Dasar Pemograman.csproj.CoreCompileInputs.cache

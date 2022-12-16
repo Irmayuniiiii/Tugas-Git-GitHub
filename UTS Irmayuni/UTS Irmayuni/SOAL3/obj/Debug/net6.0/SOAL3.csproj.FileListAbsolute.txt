@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\SOAL3\bin\Debug\net6.0\SOAL3.exe
+C:\Users\User\Desktop\SOAL3\bin\Debug\net6.0\SOAL3.deps.json
+C:\Users\User\Desktop\SOAL3\bin\Debug\net6.0\SOAL3.runtimeconfig.json
+C:\Users\User\Desktop\SOAL3\bin\Debug\net6.0\SOAL3.dll
+C:\Users\User\Desktop\SOAL3\bin\Debug\net6.0\SOAL3.pdb
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\SOAL3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\SOAL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\SOAL3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\SOAL3.AssemblyInfo.cs
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\SOAL3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\SOAL3.dll
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\refint\SOAL3.dll
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\SOAL3.pdb
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\SOAL3.genruntimeconfig.cache
+C:\Users\User\Desktop\SOAL3\obj\Debug\net6.0\ref\SOAL3.dll
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\bin\Debug\net6.0\SOAL3.exe
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\bin\Debug\net6.0\SOAL3.deps.json
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\bin\Debug\net6.0\SOAL3.runtimeconfig.json
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\bin\Debug\net6.0\SOAL3.dll
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\bin\Debug\net6.0\SOAL3.pdb
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\SOAL3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\SOAL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\SOAL3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\SOAL3.AssemblyInfo.cs
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\SOAL3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\SOAL3.dll
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\refint\SOAL3.dll
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\SOAL3.pdb
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\SOAL3.genruntimeconfig.cache
+C:\Users\User\Desktop\UTS Irmayuni\SOAL3\obj\Debug\net6.0\ref\SOAL3.dll
